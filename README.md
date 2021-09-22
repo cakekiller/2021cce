@@ -1,13 +1,14 @@
 # 2021cce
 這是我在資傳一乙的第一個程式~~~~
 
-#第01週
+# 第01週
 ‵‵‵C
 #include<stdio.h>
 int main()
 {
    printf("hello world\n");
 }
+‵‵‵C
 
-#第02週
+# 第02週
 
