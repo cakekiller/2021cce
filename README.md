@@ -11,5 +11,14 @@ int main()
 }
 ```
 
-# 第02週
+# 第03週
+```c
+#include<stdio.h>
+int main()
+{
+   printf("Hello World");
+   printf("Hello World");
+}
+```
+   
 
